@@ -1,0 +1,7 @@
+
+var addresses = [
+{"ip_address": "173.237.190.55\n", "country": "United States", "country_code": "US", "continent": "North America", "continent_code": "NA", "city": null, "county": null, "region": null, "region_code": null, "postal_code": null, "timezone": "America/Chicago", "owner": null, "longitude": -97.822, "latitude": 37.751, "currency": "USD", "languages": ["en-US", "es-US", "haw", "fr"]},
+{"ip_address": "192.0.101.226\n", "country": "United States", "country_code": "US", "continent": "North America", "continent_code": "NA", "city": "Ashburn", "county": "Loudoun County", "region": "Virginia", "region_code": "VA", "postal_code": "20149", "timezone": "America/New_York", "owner": null, "longitude": -77.4728, "latitude": 39.0481, "currency": "USD", "languages": ["en-US", "es-US", "haw", "fr"]},
+{"ip_address": "196.207.190.11\n", "country": "Kenya", "country_code": "KE", "continent": "Africa", "continent_code": "AF", "city": "Nairobi", "county": null, "region": "Nairobi Area", "region_code": "05", "postal_code": null, "timezone": "Africa/Nairobi", "owner": null, "longitude": 36.8155, "latitude": -1.2841, "currency": "KES", "languages": ["en-KE", "sw-KE"]},
+{"ip_address": "93.133.65.16\n", "country": "Germany", "country_code": "DE", "continent": "Europe", "continent_code": "EU", "city": "Essen", "county": "Regierungsbezirk D\u00fcsseldorf", "region": "North Rhine-Westphalia", "region_code": "07", "postal_code": "45147", "timezone": "Europe/Berlin", "owner": null, "longitude": 6.9863, "latitude": 51.4408, "currency": "EUR", "languages": ["de"]},
+]
